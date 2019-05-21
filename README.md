@@ -1,3 +1,4 @@
-# Task-on-regular-expression
+# One task from MIPT "Formal languages" course
 
-One task from MIPT "Formal languages" course
+### Task:
+Даны строка a и буква x. Найти максимальное k, такое что в L (заданное регулярное выражение в обратной польской нотации) есть слова, начинающиеся с префикса x^k. 
